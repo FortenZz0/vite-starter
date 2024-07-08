@@ -1,4 +1,4 @@
-# Vite-Dev шаблон
+# Vite-Starter Template
 
 
 ## Особенности шаблона
